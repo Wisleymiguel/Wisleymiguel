@@ -32,7 +32,7 @@ const wisley = {
     localização: "Belo Horizonte - MG, Brasil 🇧🇷",
     modalidade: "Remoto | Híbrido | Presencial",
     idade: 22,
-    formação: "Engenharia de Qualidade de Software - EBAC (98% concluído)",
+    formação: "Engenharia de Qualidade de Software - EBAC,
     conclusão: "Janeiro/2026",
     
     experiênciaProfissional: {
@@ -72,10 +72,10 @@ Essa percepção me levou a uma descoberta importante: minhas competências natu
 | 🏆 Certificação | 🏢 Instituição | 📅 Status | 🔗 Verificação |
 |:---------------:|:--------------:|:---------:|:--------------:|
 | **Engenharia de Qualidade de Software** | EBAC | 98% Concluído ✅ | Jan/2026 |
-| **Automação de Testes E2E** | EBAC | Concluído ✅ | 2024 |
-| **Performance Testing** | EBAC | Concluído ✅ | 2024 |
-| **Mobile Testing** | EBAC | Concluído ✅ | 2024 |
-| **API Testing** | EBAC | Concluído ✅ | 2024 |
+| **Automação de Testes E2E** | EBAC | Concluído ✅ | 2025 |
+| **Performance Testing** | EBAC | Concluído ✅ | 2025 |
+| **Mobile Testing** | EBAC | Concluído ✅ | 2025 |
+| **API Testing** | EBAC | Concluído ✅ | 2025 |
 
 </div>
 
