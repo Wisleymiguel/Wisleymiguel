@@ -71,7 +71,7 @@ Essa percepção me levou a uma descoberta importante: minhas competências natu
 
 | 🏆 Certificação | 🏢 Instituição | 📅 Status | 🔗 Verificação |
 |:---------------:|:--------------:|:---------:|:--------------:|
-| **Engenharia de Qualidade de Software** | EBAC | 98% Concluído ✅ | Jan/2026 |
+| **Engenharia de Qualidade de Software** | EBAC | Concluído ✅ | 2026 |
 | **Automação de Testes E2E** | EBAC | Concluído ✅ | 2025 |
 | **Performance Testing** | EBAC | Concluído ✅ | 2025 |
 | **Mobile Testing** | EBAC | Concluído ✅ | 2025 |
@@ -710,6 +710,6 @@ const disponibilidade = {
 [![GitHub followers](https://img.shields.io/github/followers/Wisleymiguel?label=Follow&style=social)](https://github.com/Wisleymiguel)
 ![GitHub stars](https://img.shields.io/github/stars/Wisleymiguel?style=social)
 
-*Última atualização: Janeiro 2025*
+*Última atualização: Janeiro 2026*
 
 </div>
